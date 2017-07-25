@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    >
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="100sp"
+            android:src="@mipmap/intro"
+            android:layout_margin="30sp"
+            android:id="@+id/icono"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Una aplicación para solicitar motos más rápida."
+            android:textAlignment="center"
+            android:textSize="@dimen/Texto_pequenio"
+            android:layout_margin="@dimen/titulo"
+            />
+        <TextView
+            android:text="TERMINOS DE SERVICIO"
+            android:layout_height="wrap_content"
+            android:id="@+id/enviar_mensaje"
+            android:layout_width="wrap_content"
+            android:gravity="center_vertical"
+            android:textColor="@color/colorPrimary"
+            android:layout_gravity="center_horizontal|center"
+            android:clickable="true"
+            android:textStyle="bold"
+            android:padding="15sp"
+            android:background="@drawable/bk_view"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/titulo"
+        android:text="Bienvenido a QueVengan"
+        android:textAlignment="center"
+        android:textSize="@dimen/Texto_pequenio"
+        android:layout_gravity="center_horizontal|top" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center|bottom"
+        >
+        <Button
+            android:text="Entrar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/entrar"
+            style="@style/submit"
+            />
+
+        <Button
+
+            android:text="Registrar"
+            android:layout_width="0sp"
+            android:layout_height="wrap_content"
+            android:id="@+id/registrar"
+            android:layout_weight="1"
+            style="@style/submit"
+            />
+    </LinearLayout>
+
+
+</FrameLayout>

@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "798164389505",
+    "firebase_url": "https://alonzo-47f92.firebaseio.com",
+    "project_id": "alonzo-47f92",
+    "storage_bucket": "alonzo-47f92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798164389505:android:be4522ae44b13939",
+        "android_client_info": {
+          "package_name": "com.grayhartcorp.quevengan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "798164389505-9tui62ar23s6igv50h7sl9sctnqniv75.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4WEjUWx8sWsdmCNuB7jEk8A1MDP7C00M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
