@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <set xmlns:android="http://schemas.android.com/apk/res/android">
     <alpha
-        android:startOffset="5000"
+        android:startOffset="3500"
         android:fromAlpha="0"
         android:toAlpha="1"
-        android:duration="800" >
+        android:duration="950" >
     </alpha>
 
     <!--<rotate xmlns:android="http://schemas.android.com/apk/res/android"
@@ -16,23 +16,23 @@
     </rotate>-->
 
     <scale xmlns:android="http://schemas.android.com/apk/res/android"
-        android:startOffset="5000"
-        android:fromXScale="0"
-        android:toXScale="1"
-        android:fromYScale="0"
-        android:toYScale="1"
-        android:duration="1500"
+        android:startOffset="3500"
+        android:fromXScale="1"
+        android:toXScale="1.5"
+        android:fromYScale="1"
+        android:toYScale="1.5"
+        android:duration="2000"
         android:pivotX="50%"
         android:pivotY="50%" >
     </scale>
 
     <scale xmlns:android="http://schemas.android.com/apk/res/android"
-        android:startOffset="7000"
+        android:startOffset="5500"
         android:fromXScale="1"
-        android:toXScale="0.5"
+        android:toXScale="0.65"
         android:fromYScale="1"
-        android:toYScale="0.5"
-        android:duration="1500"
+        android:toYScale="0.65"
+        android:duration="2300"
         android:pivotX="50%"
         android:pivotY="50%" >
     </scale>

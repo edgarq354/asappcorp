@@ -14,12 +14,14 @@ import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.AnimationUtils;
 import android.os.Bundle;
+import android.widget.FrameLayout;
 import android.widget.ImageView;
 
 import static android.content.ContentValues.TAG;
 
 public class SplashScreen extends Activity {
     ImageView im_gh, icon;
+    FrameLayout fondo;
     //SoundPool sp;
     //AsyncPlayer mAsync;
 
@@ -29,19 +31,29 @@ public class SplashScreen extends Activity {
         setContentView(R.layout.activity_splash_screen);
         im_gh = (ImageView) findViewById(R.id.spgh);
         icon = (ImageView)findViewById(R.id.iconas);
+        fondo = (FrameLayout)findViewById(R.id.fondo);
+        //fondo.setVisibility(View.INVISIBLE);
+        icon.setVisibility(View.INVISIBLE);
+
 
        Thread myThread = new Thread() {
             @Override
             public void run() {
-                Animation agr, ogr;
+                Animation agr, ogr, fgr;
                 agr = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.girar);
                 agr.reset();
                 ogr = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.rotar);
                 ogr.reset();
+                fgr = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.fondo);
+                fgr.reset();
+
                 im_gh.startAnimation(agr);
                 im_gh.setVisibility(View.INVISIBLE);
+                fondo.setVisibility(View.VISIBLE);
                 icon.setVisibility(View.VISIBLE);
+                fondo.startAnimation(fgr);
                 icon.startAnimation(ogr);
+                //icon.setVisibility(View.INVISIBLE);
 
 
                 /*mAsync = new AsyncPlayer(TAG);
@@ -51,7 +63,7 @@ public class SplashScreen extends Activity {
                         AudioManager.STREAM_MUSIC);*/
 
                 try {
-                    sleep(8000);
+                    sleep(7900);
                     Intent intent = new Intent(getApplicationContext(), Inicio.class);
                     startActivity(intent);
                     finish();

@@ -114,8 +114,8 @@ public class Inicio extends AppCompatActivity implements View.OnClickListener{
 
         context=this;
         /*********************************************/
-        setContentView(R.layout.animacion);
-        //saltar_animacion();
+        setContentView(R.layout.presentacion);
+        saltar_animacion();
         /*********************************************/
         icono=(ImageView)findViewById(R.id.icono);
         textView=(TextView)findViewById(R.id.textView);
@@ -150,7 +150,7 @@ public class Inicio extends AppCompatActivity implements View.OnClickListener{
 
 
 //inicio de animacion con un tiempo de espera de 1 segundo. y una ves terminado.salta al segundo 2  y al 3.
-        new CountDownTimer(1000,10) {
+       /* new CountDownTimer(1000,10) {
             @Override
             public void onTick(long l) {
             }
@@ -191,7 +191,7 @@ public class Inicio extends AppCompatActivity implements View.OnClickListener{
                 }.start();
 
             }
-        }.start();
+        }.start();*/
 
     }
     public void saltar_animacion()
