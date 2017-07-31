@@ -106,7 +106,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="17cd492dcee9fc5df1ef5d882d5d9ac5fb32171a">
+        sha1="63b8e0a0e2da2380834bdce0dc458f902273a11d">
         <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5496258e95fe8dd8d1f0afa559ceccc33dccf599/classes.dex" />
     </item>
     <item

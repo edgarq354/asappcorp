@@ -66,6 +66,7 @@ public class SplashScreen extends Activity {
                     sleep(7900);
                     Intent intent = new Intent(getApplicationContext(), Inicio.class);
                     startActivity(intent);
+                    overridePendingTransition(R.anim.zoom_back_in, R.anim.zoom_back_out);
                     finish();
                 } catch (InterruptedException e) {
                     e.printStackTrace();
