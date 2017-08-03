@@ -1,7 +1,9 @@
 package com.grayhartcorp.quevengan;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.media.AsyncPlayer;
 import android.media.AudioAttributes;
 import android.media.AudioManager;
@@ -17,9 +19,13 @@ import android.os.Bundle;
 import android.widget.FrameLayout;
 import android.widget.ImageView;
 
+import com.grayhartcorp.quevengan.contactos.Registro_usuario;
+import com.grayhartcorp.quevengan.menu_motista.Menu_motista;
+
 import static android.content.ContentValues.TAG;
 
 public class SplashScreen extends Activity {
+    SharedPreferences datos_perfil,dato_moto;
     ImageView im_gh, icon;
     FrameLayout fondo;
     //SoundPool sp;
@@ -28,6 +34,12 @@ public class SplashScreen extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        //***********************************************************************************
+        //  verificar_version();
+
+        //si no tiene actualizaciones.. continua con el inicio.. normal...
+
+        //************************************************************************************
         setContentView(R.layout.activity_splash_screen);
         im_gh = (ImageView) findViewById(R.id.spgh);
         icon = (ImageView)findViewById(R.id.iconas);
@@ -36,15 +48,40 @@ public class SplashScreen extends Activity {
         icon.setVisibility(View.INVISIBLE);
 
 
-       Thread myThread = new Thread() {
+       final Thread myThread = new Thread() {
             @Override
             public void run() {
+
+                /*dato_moto=getSharedPreferences("perfil", Context.MODE_PRIVATE);
+
+
+                if(dato_moto.getString("login_usuario","0").equals("1")) {
+                    Intent intent1 = new Intent (getApplicationContext(),Menu_p.class);
+                    startActivity(intent1);
+                    //startActivity(new Intent(this, Menu_p.class));
+                    finish();
+                }else if(dato_moto.getString("login_moto","0").equals("1"))
+                {
+                    //startActivity(new Intent(this, Menu_motista.class));
+                    Intent intent2 = new Intent (getApplicationContext(),Menu_motista.class);
+                    startActivity(intent2);
+                    finish();
+                    //myThread.stop();
+                }
+                else if(dato_moto.getString("celular","")!="" &&dato_moto.getString("proceso","")=="1" &&  dato_moto.getString("login_usuario","0").equals("0"))
+                {
+                    //startActivity(new Intent(this,Registro_usuario.class));
+                    Intent intent3 = new Intent (getApplicationContext(),Registro_usuario.class);
+                    startActivity(intent3);
+                    finish();
+                }*/
+
                 Animation agr, ogr, fgr;
-                agr = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.girar);
+                agr = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.girar);  //Animacion GH
                 agr.reset();
-                ogr = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.rotar);
+                ogr = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.rotar);  //Animacion Asapp
                 ogr.reset();
-                fgr = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.fondo);
+                fgr = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.fondo);  //Animacion del fondo
                 fgr.reset();
 
                 im_gh.startAnimation(agr);
@@ -63,10 +100,10 @@ public class SplashScreen extends Activity {
                         AudioManager.STREAM_MUSIC);*/
 
                 try {
-                    sleep(7900);
-                    Intent intent = new Intent(getApplicationContext(), Inicio.class);
+                    sleep(8000);
+                    Intent intent = new Intent(getApplicationContext(), Inicio.class);   //AQUI SE CAMBIO Inicio.class por Login.class para saltar activity redundante
                     startActivity(intent);
-                    overridePendingTransition(R.anim.zoom_back_in, R.anim.zoom_back_out);
+                    overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
                     finish();
                 } catch (InterruptedException e) {
                     e.printStackTrace();

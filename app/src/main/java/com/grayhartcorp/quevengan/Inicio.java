@@ -114,7 +114,7 @@ public class Inicio extends AppCompatActivity implements View.OnClickListener{
 
         context=this;
         /*********************************************/
-        setContentView(R.layout.presentacion);
+        setContentView(R.layout.presentacion);      //R.layout.presentacion
         saltar_animacion();
         /*********************************************/
         icono=(ImageView)findViewById(R.id.icono);
@@ -192,7 +192,8 @@ public class Inicio extends AppCompatActivity implements View.OnClickListener{
 
             }
         }.start();*/
-
+        startActivity(new Intent(this,Login.class));
+        finish();
     }
     public void saltar_animacion()
     {     //salta a la presentacion
