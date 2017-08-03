@@ -53,6 +53,7 @@ dependencies {
         compile 'com.android.support:support-vector-drawable:24.0.0'
 
         compile 'com.google.firebase:firebase-messaging:9.4.0'
+        compile 'com.google.firebase:firebase-auth:11.0.4'
 
         compile files('libs/volley.jar')
         compile(name: 'sinch-android-verification-1.4.0', ext: 'aar')
