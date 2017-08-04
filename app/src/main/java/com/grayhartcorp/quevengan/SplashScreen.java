@@ -39,6 +39,8 @@ public class SplashScreen extends Activity {
 
         //si no tiene actualizaciones.. continua con el inicio.. normal...
 
+
+
         //************************************************************************************
         setContentView(R.layout.activity_splash_screen);
         im_gh = (ImageView) findViewById(R.id.spgh);
@@ -51,30 +53,6 @@ public class SplashScreen extends Activity {
        final Thread myThread = new Thread() {
             @Override
             public void run() {
-
-                /*dato_moto=getSharedPreferences("perfil", Context.MODE_PRIVATE);
-
-
-                if(dato_moto.getString("login_usuario","0").equals("1")) {
-                    Intent intent1 = new Intent (getApplicationContext(),Menu_p.class);
-                    startActivity(intent1);
-                    //startActivity(new Intent(this, Menu_p.class));
-                    finish();
-                }else if(dato_moto.getString("login_moto","0").equals("1"))
-                {
-                    //startActivity(new Intent(this, Menu_motista.class));
-                    Intent intent2 = new Intent (getApplicationContext(),Menu_motista.class);
-                    startActivity(intent2);
-                    finish();
-                    //myThread.stop();
-                }
-                else if(dato_moto.getString("celular","")!="" &&dato_moto.getString("proceso","")=="1" &&  dato_moto.getString("login_usuario","0").equals("0"))
-                {
-                    //startActivity(new Intent(this,Registro_usuario.class));
-                    Intent intent3 = new Intent (getApplicationContext(),Registro_usuario.class);
-                    startActivity(intent3);
-                    finish();
-                }*/
 
                 Animation agr, ogr, fgr;
                 agr = AnimationUtils.loadAnimation(getApplicationContext(), R.anim.girar);  //Animacion GH
@@ -110,7 +88,34 @@ public class SplashScreen extends Activity {
                 }
             }
         };
-        myThread.start();
+        dato_moto=getSharedPreferences("perfil", Context.MODE_PRIVATE);
+        boolean b = true;
+
+        if(dato_moto.getString("login_usuario","0").equals("1")) {
+            Intent intent1 = new Intent (this,Menu_p.class);
+            startActivity(intent1);
+            b = false;
+            //startActivity(new Intent(this, Menu_p.class));
+            finish();
+        }else if(dato_moto.getString("login_moto","0").equals("1"))
+        {
+            //startActivity(new Intent(this, Menu_motista.class));
+            Intent intent2 = new Intent (getApplicationContext(),Menu_motista.class);
+            startActivity(intent2);
+            b = false;
+            finish();
+
+        }
+        else if(dato_moto.getString("celular","")!="" &&dato_moto.getString("proceso","")=="1" &&  dato_moto.getString("login_usuario","0").equals("0"))
+        {
+            //startActivity(new Intent(this,Registro_usuario.class));
+            Intent intent3 = new Intent (getApplicationContext(),Registro_usuario.class);
+            startActivity(intent3);
+            finish();
+        }
+
+        if (b)
+        {myThread.start();}
     }
 }
 
