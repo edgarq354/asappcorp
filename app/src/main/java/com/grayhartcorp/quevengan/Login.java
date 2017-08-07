@@ -71,7 +71,7 @@ String tipo="";
     Mensaje mensaje=new Mensaje("");
     @Override
     public void onClick(View v) {
-        if(v.getId()==R.id.continuar)
+        if(v.getId() == R.id.continuar)
         {
             Servicio hilo_moto = new Servicio();
             hilo_moto.execute(getString(R.string.servidor) + "frmUsuario.php?opcion=verificar_tipo_de_usuario", "1",celular.getText().toString());// parametro que recibe el doinbackground
@@ -124,8 +124,8 @@ String tipo="";
     private boolean verificar_celular(CharSequence s) {
         boolean sw=false;
          try{
-             int numero=Integer.parseInt(s.toString());
-             if(numero>=60000000 && numero<=79999999)
+             int numero = Integer.parseInt(s.toString());
+             if(numero >= 60000000 && numero <= 79999999)
              {
                  sw=true;
              }
@@ -133,7 +133,7 @@ String tipo="";
          {
              sw=false;
          }
-        return sw;
+         return sw;
     }
 
 //motista

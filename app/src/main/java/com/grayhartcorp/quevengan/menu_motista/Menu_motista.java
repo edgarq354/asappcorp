@@ -440,11 +440,11 @@ public class Menu_motista extends AppCompatActivity
                 == PackageManager.PERMISSION_GRANTED) {
             mMap.setMyLocationEnabled(true);
             View mapView = (View) getSupportFragmentManager().findFragmentById(R.id.map).getView();
-//bicacion del button de Myubicacion de el fragento..
+        //ubicacion del button de Myubicacion de el fragento..
             View btnMyLocation = ((View) mapView.findViewById(Integer.parseInt("1")).getParent()).findViewById(Integer.parseInt("2"));
 
             RelativeLayout.LayoutParams params = new RelativeLayout.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT, ViewGroup.LayoutParams.WRAP_CONTENT);
-            params.addRule(RelativeLayout.ALIGN_PARENT_LEFT, RelativeLayout.TRUE);
+            params.addRule(RelativeLayout.ALIGN_PARENT_RIGHT, RelativeLayout.TRUE);
             params.addRule(RelativeLayout.ALIGN_PARENT_BOTTOM, RelativeLayout.TRUE);
             params.setMargins(0, 0, 0, 0);
             btnMyLocation.setLayoutParams(params);
@@ -1063,7 +1063,7 @@ if(isCancelled()==false) {
             //para el progres Dialog
             preparar_progres_dialogo("Asapp","Verificando si tíene pedido.");
             builder_dialogo.setCancelable(true);
-            alertDialog.show();
+            //alertDialog.show();       //Se comentó para ocultar dialogo
 
         }
 
