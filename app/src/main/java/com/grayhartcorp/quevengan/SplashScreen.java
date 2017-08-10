@@ -118,7 +118,7 @@ public class SplashScreen extends Activity {
 /*******************************************************************************************************************************/
         if (b) {
             //myThread.start();
-            getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN, WindowManager.LayoutParams.FLAG_FULLSCREEN);
+            getWindow().setFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS, WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
             setContentView(R.layout.activity_splash_screen);
 

@@ -27,6 +27,7 @@ import android.view.View;
 import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -59,6 +60,7 @@ public class Login extends AppCompatActivity implements View.OnClickListener{
 Button continuar;
 EditText celular;
 String tipo="";
+ImageButton entrar;
 
 
 
@@ -71,7 +73,7 @@ String tipo="";
     Mensaje mensaje=new Mensaje("");
     @Override
     public void onClick(View v) {
-        if(v.getId() == R.id.continuar)
+        if(v.getId() == R.id.entrar)        //antes .continuar
         {
             Servicio hilo_moto = new Servicio();
             hilo_moto.execute(getString(R.string.servidor) + "frmUsuario.php?opcion=verificar_tipo_de_usuario", "1",celular.getText().toString());// parametro que recibe el doinbackground
@@ -83,17 +85,18 @@ String tipo="";
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS,WindowManager.LayoutParams.FLAG_FULLSCREEN);
 
         setContentView(R.layout.activity_login);
         continuar=(Button)findViewById(R.id.continuar);
         celular=(EditText)findViewById(R.id.celular);
+        entrar=(ImageButton)findViewById(R.id.entrar);
 
 
-        continuar.setEnabled(false);
+        entrar.setEnabled(false);      //antes .continuar
 
 
-        continuar.setOnClickListener(this);
+        entrar.setOnClickListener(this);   //antes .continuar
 
 
         celular.addTextChangedListener(new TextWatcher() {
@@ -111,10 +114,10 @@ String tipo="";
             @Override
             public void onTextChanged(CharSequence s, int start, int before, int count) {
                 if (verificar_celular(s)) {
-                    continuar.setEnabled(true);
+                    entrar.setEnabled(true);         //antes continuar
                     celular.setTextColor(Color.BLACK);
                 } else {
-                    continuar.setEnabled(false);
+                    entrar.setEnabled(false);        //antes continuar
                     celular.setTextColor(Color.RED);
                 }
             }

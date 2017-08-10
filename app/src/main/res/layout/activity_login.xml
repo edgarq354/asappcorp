@@ -18,8 +18,8 @@
         android:layout_height="wrap_content"
         android:id="@+id/continuar"
         style="@style/submit"
-
-        android:layout_gravity="center_horizontal|bottom" />
+        android:layout_gravity="center_horizontal|bottom"
+        android:visibility="invisible"/>
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -81,6 +81,28 @@
         android:text="¿Cuál es tu numero?"
         android:textAlignment="center"
         android:textSize="@dimen/Texto_pequenio" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="83dp"
+        android:layout_gravity="center_horizontal|bottom"
+        android:orientation="horizontal">
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:layout_weight="1">
+
+            <ImageButton
+                android:id="@+id/entrar"
+                android:layout_width="wrap_content"
+                android:layout_height="87dp"
+                android:layout_weight="1"
+                app:srcCompat="@drawable/botonentrar" />
+        </FrameLayout>
+
+    </LinearLayout>
 
 
 </FrameLayout>
