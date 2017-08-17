@@ -3,39 +3,75 @@
 
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/7904ac393c95623d5e2b6e962db93ef776af7759/output/jars/classes.jar"
-        jumboMode="true"
+        jar="/root/.android/build-cache/3ab79e348529bf1acf8c075aca6a56d923b36a46/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_abf719849ccfcf0c2ba461829aeeca18ab73a1ea/classes.dex" />
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea1c7ff515a4bb07ea25977edd544ad9e52d9520/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/e86e2d51b7b3f479ca6bda223405bb96713cf928/output/jars/libs/internal_impl-24.2.1.jar"
+        jar="/root/.android/build-cache/075e591a96b4f0b9f5fd0aa60dcd9d2b7eb3782b/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_969871f578720650c07f91ef9fa83ff74615c7da/classes.dex" />
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_edda33734f9a317a6ce3a8aefe17b2add303d11e/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/2238b3a5a3799e189f8f6bacff662789846022d0/output/jars/classes.jar"
+        jar="/root/.android/build-cache/7a99f24642f4dbcc61716778c155c3c171292e2e/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_581d81f92eb1f6587078a22efd77387a2ae1fb6a/classes.dex" />
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d3d2f4c29e4195ffe351a25e92a331199defb2f/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/bcfcefbb2dd8a408936e57bebb3b794a7dffda9f/output/jars/classes.jar"
+        jar="/root/.android/build-cache/05108b475a4f0faa6051146a1118b7501892d3ed/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f8bf141780dacca8630b63a1d3696abec38e21c/classes.dex" />
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5fd0ce6a0c1645aac8533c54f7e06930b2a5ac73/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e3efea051cbc93da17fe26e5fd8b9bfe8e371fed/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9c77e6c034795043375ee2ebd4a8ca3ec202f28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/32aa0b8910fa9ba6383e7e5fc2c9d50bb2f0ee0b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d99190b20642ede5322812a41eff4a48ba5efb05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e46bac7d512d62778b320a3f33c7bab8822f8512/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f52e9f00d7f2f696ceb78cba82568b739760837/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a925b790625f9d37e29481babb195b8f0a32f220/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1a8183f66c260b6b37cbf56ac78a87f178c4775/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -48,21 +84,39 @@
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/99127e652b4e320bb3f436dd63d0610bacad16e5/output/jars/classes.jar"
-        jumboMode="true"
+        jar="/root/.android/build-cache/bcfcefbb2dd8a408936e57bebb3b794a7dffda9f/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_05b7f8509141da841701b7f4e71814e7f2a05170/classes.dex" />
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f8bf141780dacca8630b63a1d3696abec38e21c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/89f489af3b5ee7443b974f854e8f5a0e7de47332/output/jars/classes.jar"
+        jar="/root/.android/build-cache/2f8a834e3dc4cf0a005049850530022188a8724b/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e6f176c48434f9ac13fea6ab7426c99e2de0acc/classes.dex" />
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4934ff2aa66e6a1156850dd67778e67a21581a41/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/743bd00da5036d68d2f3251bc9ff0706af7edda8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d9f2b529efa8a99ccbe56d97c1b22455d5ce8a68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/6917a7815709017e382606f354e213bfd30e414e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32cf1c2787325d37555677bbb83d86716954f3bb/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,26 +129,17 @@
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/6d216bb5ac099a74892459e742ae439837ca9a3f/output/jars/classes.jar"
+        jar="/root/.android/build-cache/6bc94ebd9e8f52ac282cfdedaf3cbf1803139d30/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ff968b279d982939d94dbb9d61ff0222febcb6b/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/root/.android/build-cache/c93af1ba5289db5f8fe13d15d36ca8291ca1297e/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_986a4db0c718d51ca0e7079ae29f0fe3670cb8ec/classes.dex" />
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42f785e5c57db461a4ec107d34064f718513ac39/classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="/root/.android/build-cache/e1483d9181e1b56c40c98a1c24bf3392a904cd59/output/jars/classes.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
@@ -102,57 +147,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="63b8e0a0e2da2380834bdce0dc458f902273a11d">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5496258e95fe8dd8d1f0afa559ceccc33dccf599/classes.dex" />
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_7a6134ddc9b109d53e5eb36c6a01475764deb5c0/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/99127e652b4e320bb3f436dd63d0610bacad16e5/output/jars/libs/internal_impl-24.2.1.jar"
+        jar="/root/.android/build-cache/1f72cbde5528345c312597abad642db3a655bb79/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_59da540c73756326b3f0bb8b4d03bb5dbddac7ed/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/root/.android/build-cache/1e1ae6bca2dce787221f8d5a9268c7516264fd64/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97d73b025aefba7ab8b2daadbf2ab6a004b9a40c/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/root/.android/build-cache/33d6248717c21c33bd6200fd063f588391db94c1/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b40bf2de06f06fa57e09dbf86e59ad471ab579f7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_bc102048a27ff00c8e10fc3a76afaa77fbe3d1bd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/root/.android/build-cache/8274352ce570f2b5abee99d458147e6138fca9a1/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b2e953ba73b5c6c8a5da80242f94acf25e13823b/classes.dex" />
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0a943b5d80f6d2ee8a0894387f94f57211d9d66/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -174,8 +183,26 @@
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/825ba4ad9af39210c8eb74f5b247d4dcb50f0abc/output/jars/classes.jar"
+        jar="/root/.android/build-cache/15563ed94ada83d3ee1f85c11899246192560e82/output/jars/classes.jar"
         jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d5f17c7b7e61cdf17d865b22629d2ac0a572c2b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/cc1cf53c3126d54dd7263217af90c8a895e8b6ee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ecf4628386fe2480b6fd9f39e784b2f655ede3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/825ba4ad9af39210c8eb74f5b247d4dcb50f0abc/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="e1acb69e12bac7b805ff5c11227d9eb4bcd13a04">
@@ -183,44 +210,26 @@
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/2886d278606a48649561b36dae060be3c0a867f4/output/jars/classes.jar"
-        jumboMode="true"
+        jar="/root/.android/build-cache/907991fdb48b508dd17c8286cd6b9c80a1ce300e/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_712052a1bb4f21a5be426a904e7ee16a85f2c7e4/classes.dex" />
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8313452e1e2789958101278e9234ef6fad7a230c/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/8535f081d82416f57727a3125cf1df2028d8590e/output/jars/classes.jar"
-        jumboMode="true"
+        jar="/root/.android/build-cache/c7262a1b925e1a0f4531b85dfa7cf75ba151f592/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bd449cae4c9c35177ad975dfd32726e922162588/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/root/.android/build-cache/4317bce6d661235e52ec4001a19d7b865082d414/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1511ac13192bdb6fe7f99d578e150751e522da1/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/root/.android/build-cache/1e87736fdc8e1ebebd0c2eef0054d5edeb413fe0/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_750ab1aeeabf0fa26954f8d11d8c0e93bb6ff549/classes.dex" />
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d75dcdccfd6c254d80d7eff8baffc91cdbb406a/classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="/home/rodzmartn/Escritorio/Asapp/app/libs/volley.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
@@ -228,21 +237,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/6d216bb5ac099a74892459e742ae439837ca9a3f/output/jars/libs/internal_impl-24.2.1.jar"
+        jar="/root/.android/build-cache/ae602cca67ac127d79694e25e1a8347c1dafe753/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_c1f47ec6a172968162e4c62cfd2324b8ecee7bd1/classes.dex" />
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b480d66ac866b3a067cf56dd1230945bdaf1b81e/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/c98c144ba8519212ebce09202592c31eaef9a23a/output/jars/classes.jar"
+        jar="/root/.android/build-cache/32dbbba81489b331f267a4186d3e45f6d733cfaf/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e6107ac9f0acba0f4966dc705efcccebeab5ac3/classes.dex" />
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e21c4ffaf021bdf121736671fb731b67bec3cc47/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -255,30 +264,21 @@
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/eaee9b414109f10a9f80568606389044f85b1900/output/jars/classes.jar"
-        jumboMode="true"
+        jar="/root/.android/build-cache/2f8a834e3dc4cf0a005049850530022188a8724b/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="3b7173b3df4c7029699919414400041f64519e34">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6f60b2eb9942b8f9cb399db08d7b6bf4c56bb6a/classes.dex" />
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4934ff2aa66e6a1156850dd67778e67a21581a41/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/f2809ed4f5d8a4e4d27588da245f4aac43a5352c/output/jars/classes.jar"
-        jumboMode="true"
+        jar="/root/.android/build-cache/c9b0e6f6620ba9b2adeadf49678ff5c50df435e6/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_df0bc12a94000bfac862ef9d4d9e463dbfdabc4a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/root/.android/build-cache/152969ddac3f918f41a200c594421b0421f43b06/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_514dc9974b008167dccb6ad94027b5b86a84185b/classes.dex" />
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5a2171a8b5b7c8ca1076c4e08425435e3d429ac/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -291,48 +291,300 @@
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/f2809ed4f5d8a4e4d27588da245f4aac43a5352c/output/jars/libs/internal_impl-24.2.1.jar"
+        jar="/root/.android/build-cache/675700c0678087f39c6c557d49e228b1d3bccd82/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="867dad63c33388ff8c7644b236579355036d075f">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_a8b11acd8559499ed31e9aac9d0f63f2ba4b5af1/classes.dex" />
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5db150805884da3f9524c0a4fe88e7158e42827a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/c7157ece0e5e95e2ae098615591c9a6ba8fef164/output/jars/classes.jar"
+        jar="/root/.android/build-cache/158f28b766f5c4369474d0c2c506649038aab590/output/jars/classes.jar"
         jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e932d04b4a7f429e5af5beb4a1dd65fa1a968a48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/6bc94ebd9e8f52ac282cfdedaf3cbf1803139d30/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42f785e5c57db461a4ec107d34064f718513ac39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e3efea051cbc93da17fe26e5fd8b9bfe8e371fed/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9c77e6c034795043375ee2ebd4a8ca3ec202f28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/7a99f24642f4dbcc61716778c155c3c171292e2e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5d3d2f4c29e4195ffe351a25e92a331199defb2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e46bac7d512d62778b320a3f33c7bab8822f8512/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9f52e9f00d7f2f696ceb78cba82568b739760837/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/743bd00da5036d68d2f3251bc9ff0706af7edda8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d9f2b529efa8a99ccbe56d97c1b22455d5ce8a68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/6917a7815709017e382606f354e213bfd30e414e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_32cf1c2787325d37555677bbb83d86716954f3bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/3ab79e348529bf1acf8c075aca6a56d923b36a46/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea1c7ff515a4bb07ea25977edd544ad9e52d9520/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/bcfcefbb2dd8a408936e57bebb3b794a7dffda9f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5f8bf141780dacca8630b63a1d3696abec38e21c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.systembartint/systembartint/1.0.3/de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287/systembartint-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4f7404e2f58d8f6e83cb1e85d0c2d6c2987287">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/systembartint-1.0.3_71a875e570779c942f52aa70b5070e583e3c07b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/2fc94a28a5f9978a05a0459f5601f4f74c9d5a5a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cfa8ebda8e884e3e464737c22253821b9af60f4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/32aa0b8910fa9ba6383e7e5fc2c9d50bb2f0ee0b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d99190b20642ede5322812a41eff4a48ba5efb05/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/075e591a96b4f0b9f5fd0aa60dcd9d2b7eb3782b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_edda33734f9a317a6ce3a8aefe17b2add303d11e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/1f72cbde5528345c312597abad642db3a655bb79/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a0a943b5d80f6d2ee8a0894387f94f57211d9d66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/05108b475a4f0faa6051146a1118b7501892d3ed/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8e73b9c42003e68aa6c2c510badb459061c18a14/classes.dex" />
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5fd0ce6a0c1645aac8533c54f7e06930b2a5ac73/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/33d6248717c21c33bd6200fd063f588391db94c1/output/jars/libs/internal_impl-24.2.1.jar"
-        jumboMode="true"
+        jar="/root/.android/build-cache/d5162a541f5ceadb2df26413290adc32bdd32ddb/output/jars/classes.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_78a5b26dd3f96cc801a88a1eeb685ac7d420e524/classes.dex" />
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_13db4cb2fcd660f1955414098b54714f73361c80/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/e86e2d51b7b3f479ca6bda223405bb96713cf928/output/jars/classes.jar"
-        jumboMode="true"
+        jar="/root/.gradle/caches/modules-2/files-2.1/org.jbundle.util.osgi.wrapped/org.jbundle.util.osgi.wrapped.org.apache.http.client/4.1.2/98c86e42679fe7ac066f6c242e0d14f0bce0bb7c/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2.jar"
+        jumboMode="false"
         optimize="true"
         revision="25.0.0"
-        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99a6a0e48c7034469a9c9c21f220c6b3115eb12a/classes.dex" />
+        sha1="98c86e42679fe7ac066f6c242e0d14f0bce0bb7c">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/org.jbundle.util.osgi.wrapped.org.apache.http.client-4.1.2_3bf31f749714fc8270311a216c66e97fe2847444/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/3093b4d3af0ccefcdb307ea22a656aa92538d99e/output/jars/classes.jar"
+        jar="/root/.android/build-cache/e1483d9181e1b56c40c98a1c24bf3392a904cd59/output/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
-        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a86c1a24e682cde04cb776be394bf790c60c4bc8/classes.dex" />
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31df24c83d9d5285b650d2bbdcfc3406a3a409c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0f98272e68b8a871d6aceb5a5e43ebd2e7e7a89b">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5496258e95fe8dd8d1f0afa559ceccc33dccf599/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/cc1cf53c3126d54dd7263217af90c8a895e8b6ee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ecf4628386fe2480b6fd9f39e784b2f655ede3a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/907991fdb48b508dd17c8286cd6b9c80a1ce300e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8313452e1e2789958101278e9234ef6fad7a230c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/c104338b81fce12d9e3641a7d59e0aa4f899f84d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_98ea8d2ae280962a7b18074e16d0bfad116b79e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/32dbbba81489b331f267a4186d3e45f6d733cfaf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e21c4ffaf021bdf121736671fb731b67bec3cc47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/991078886455fbe93c37aa2a74839174362c73ec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d7413952a71f7b4ab07994a2dbe6c1f40566bbc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/825ba4ad9af39210c8eb74f5b247d4dcb50f0abc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e1acb69e12bac7b805ff5c11227d9eb4bcd13a04">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6f4cb86d0d6386dc7c2deb44dd7b85f465b23782/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/a925b790625f9d37e29481babb195b8f0a32f220/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f1a8183f66c260b6b37cbf56ac78a87f178c4775/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/c7262a1b925e1a0f4531b85dfa7cf75ba151f592/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4d75dcdccfd6c254d80d7eff8baffc91cdbb406a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/rodzmartn/Escritorio/Asapp/app/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_ad21a038fcd770b1a628ce8305165177d4b913ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/ae602cca67ac127d79694e25e1a8347c1dafe753/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b480d66ac866b3a067cf56dd1230945bdaf1b81e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/2fc94a28a5f9978a05a0459f5601f4f74c9d5a5a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cfa8ebda8e884e3e464737c22253821b9af60f4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.2.0_7a6134ddc9b109d53e5eb36c6a01475764deb5c0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/15563ed94ada83d3ee1f85c11899246192560e82/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2d5f17c7b7e61cdf17d865b22629d2ac0a572c2b/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -342,6 +594,24 @@
         revision="25.0.0"
         sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
         <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5a2171a8b5b7c8ca1076c4e08425435e3d429ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/158f28b766f5c4369474d0c2c506649038aab590/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e932d04b4a7f429e5af5beb4a1dd65fa1a968a48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/675700c0678087f39c6c557d49e228b1d3bccd82/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/home/rodzmartn/Escritorio/Asapp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5db150805884da3f9524c0a4fe88e7158e42827a/classes.dex" />
     </item>
 
 </items>

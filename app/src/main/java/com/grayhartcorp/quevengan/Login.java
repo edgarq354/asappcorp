@@ -24,6 +24,7 @@ import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
+import android.view.Window;
 import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
@@ -85,9 +86,18 @@ ImageButton entrar;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        getWindow().setFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS,WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        supportRequestWindowFeature(Window.FEATURE_NO_TITLE);
+
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS, WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
+        getWindow().setStatusBarColor(this.getResources().getColor(R.color.colorPrimary_back));
+
+        /*Window window = this.getWindow();
+        window.addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS);
+        window.clearFlags(WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
+        window.setStatusBarColor(this.getResources().getColor(R.color.colorPrimary_back));*/
 
         setContentView(R.layout.activity_login);
+        //getSupportActionBar().hide();
         continuar=(Button)findViewById(R.id.continuar);
         celular=(EditText)findViewById(R.id.celular);
         entrar=(ImageButton)findViewById(R.id.entrar);
@@ -149,7 +159,7 @@ ImageButton entrar;
             String cadena = params[0];
             URL url = null;  // url donde queremos obtener informacion
             String devuelve = "-1";
-        if(alertDialog.isShowing()==true) {
+        if(alertDialog.isShowing()) {//borre el ==true
             devuelve = "";
             if (params[1] == "1") { //mandar JSON metodo post para login
                 try {
@@ -237,6 +247,7 @@ ImageButton entrar;
             confirmar.putExtra("tipo",tipo);
             confirmar.putExtra("celular",celular.getText().toString());
             startActivity(confirmar);
+            overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
 
             }
             else if(s.equals("2"))

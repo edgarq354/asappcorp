@@ -29,6 +29,7 @@ import android.text.TextWatcher;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
+import android.view.Window;
 import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.EditText;
@@ -91,7 +92,8 @@ Button codeInputButton;
     private final String APPLICATION_KEY = "b6688b99-7116-4511-b075-16decd541663";
     private Verification mVerification;
     private boolean mShouldFallback = true;
-    private static final String[] SMS_PERMISSIONS = { android.Manifest.permission.INTERNET,
+    private static final String[] SMS_PERMISSIONS = {
+            android.Manifest.permission.INTERNET,
             android.Manifest.permission.READ_SMS,
             android.Manifest.permission.RECEIVE_SMS,
             android.Manifest.permission.ACCESS_NETWORK_STATE };
@@ -108,7 +110,10 @@ Button codeInputButton;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        supportRequestWindowFeature(Window.FEATURE_NO_TITLE);
+        //getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
+        getWindow().setFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS, WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
+        getWindow().setStatusBarColor(this.getResources().getColor(R.color.colorPrimary_back));
 
         setContentView(R.layout.activity_confirmar_sms);
         mensaje=(TextView)findViewById(R.id.mensaje);
