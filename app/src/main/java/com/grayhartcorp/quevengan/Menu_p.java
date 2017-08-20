@@ -1427,21 +1427,6 @@ ImageView im_opcion;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
             //verificar si tiene un pedido habilitado.
             if (params[1] == "9") {
                 try {
@@ -1514,8 +1499,6 @@ ImageView im_opcion;
                     e.printStackTrace();
                 }
             }
-
-
 
 
             return devuelve;

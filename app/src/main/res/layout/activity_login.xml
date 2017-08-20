@@ -8,7 +8,7 @@
 
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.grayhartcorp.quevengan.Login"
-    android:background="@color/colorPrimaryDark"
+    android:background="@drawable/fondosap"
     >
 
 
@@ -99,7 +99,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="87dp"
                 android:layout_weight="1"
-                app:srcCompat="@drawable/botonentrar" />
+                app:srcCompat="@drawable/botonsap" />
         </FrameLayout>
 
     </LinearLayout>

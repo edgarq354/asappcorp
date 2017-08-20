@@ -58,10 +58,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Login extends AppCompatActivity implements View.OnClickListener{
-Button continuar;
-EditText celular;
-String tipo="";
-ImageButton entrar;
+    Button continuar;
+    EditText celular;
+    String tipo="";
+    ImageButton entrar;
 
 
 
@@ -133,23 +133,23 @@ ImageButton entrar;
             }
         });
     }
-//motista
+    //motista
     private boolean verificar_celular(CharSequence s) {
         boolean sw=false;
-         try{
-             int numero = Integer.parseInt(s.toString());
-             if(numero >= 60000000 && numero <= 79999999)
-             {
-                 sw=true;
-             }
-         }catch (Exception e)
-         {
-             sw=false;
-         }
-         return sw;
+        try{
+            int numero = Integer.parseInt(s.toString());
+            if(numero >= 60000000 && numero <= 79999999)
+            {
+                sw=true;
+            }
+        }catch (Exception e)
+        {
+            sw=false;
+        }
+        return sw;
     }
 
-//motista
+    //motista
     public class Servicio extends AsyncTask<String,Integer,String> {
 
 
@@ -159,70 +159,70 @@ ImageButton entrar;
             String cadena = params[0];
             URL url = null;  // url donde queremos obtener informacion
             String devuelve = "-1";
-        if(alertDialog.isShowing()) {//borre el ==true
-            devuelve = "";
-            if (params[1] == "1") { //mandar JSON metodo post para login
-                try {
-                    HttpURLConnection urlConn;
+            if(alertDialog.isShowing()) {//borre el ==true
+                devuelve = "";
+                if (params[1] == "1") { //mandar JSON metodo post para login
+                    try {
+                        HttpURLConnection urlConn;
 
-                    url = new URL(cadena);
-                    urlConn = (HttpURLConnection) url.openConnection();
-                    urlConn.setDoInput(true);
-                    urlConn.setDoOutput(true);
-                    urlConn.setUseCaches(false);
-                    urlConn.setRequestProperty("Content-Type", "application/json");
-                    urlConn.setRequestProperty("Accept", "application/json");
-                    urlConn.connect();
+                        url = new URL(cadena);
+                        urlConn = (HttpURLConnection) url.openConnection();
+                        urlConn.setDoInput(true);
+                        urlConn.setDoOutput(true);
+                        urlConn.setUseCaches(false);
+                        urlConn.setRequestProperty("Content-Type", "application/json");
+                        urlConn.setRequestProperty("Accept", "application/json");
+                        urlConn.connect();
 
-                    //se crea el objeto JSON
-                    JSONObject jsonParam = new JSONObject();
-                    jsonParam.put("celular", params[2]);
+                        //se crea el objeto JSON
+                        JSONObject jsonParam = new JSONObject();
+                        jsonParam.put("celular", params[2]);
 
-                    //Envio los prametro por metodo post
-                    OutputStream os = urlConn.getOutputStream();
-                    BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(os, "UTF-8"));
-                    writer.write(jsonParam.toString());
-                    writer.flush();
-                    writer.close();
+                        //Envio los prametro por metodo post
+                        OutputStream os = urlConn.getOutputStream();
+                        BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(os, "UTF-8"));
+                        writer.write(jsonParam.toString());
+                        writer.flush();
+                        writer.close();
 
-                    int respuesta = urlConn.getResponseCode();
+                        int respuesta = urlConn.getResponseCode();
 
-                    StringBuilder result = new StringBuilder();
+                        StringBuilder result = new StringBuilder();
 
-                    if (respuesta == HttpURLConnection.HTTP_OK) {
+                        if (respuesta == HttpURLConnection.HTTP_OK) {
 
-                        String line;
-                        BufferedReader br = new BufferedReader(new InputStreamReader(urlConn.getInputStream()));
-                        while ((line = br.readLine()) != null) {
-                            result.append(line);
+                            String line;
+                            BufferedReader br = new BufferedReader(new InputStreamReader(urlConn.getInputStream()));
+                            while ((line = br.readLine()) != null) {
+                                result.append(line);
+                            }
+
+                            //Creamos un objeto JSONObject para poder acceder a los atributos (campos) del objeto.
+                            JSONObject respuestaJSON = new JSONObject(result.toString());//Creo un JSONObject a partir del
+                            // StringBuilder pasando a cadena.                    }
+
+                            SystemClock.sleep(950);
+
+                            //Accedemos a vector de resultados.
+                            suceso = new Suceso(respuestaJSON.getString("suceso"), respuestaJSON.getString("mensaje"));// suceso es el campo en el Json
+                            if (suceso.getSuceso().equals("1")) {
+                                tipo = respuestaJSON.getString("tipo");
+                                devuelve = "1";
+                            } else {
+                                devuelve = "2";
+                            }
+
                         }
 
-                        //Creamos un objeto JSONObject para poder acceder a los atributos (campos) del objeto.
-                        JSONObject respuestaJSON = new JSONObject(result.toString());//Creo un JSONObject a partir del
-                        // StringBuilder pasando a cadena.                    }
-
-                        SystemClock.sleep(950);
-
-                        //Accedemos a vector de resultados.
-                        suceso = new Suceso(respuestaJSON.getString("suceso"), respuestaJSON.getString("mensaje"));// suceso es el campo en el Json
-                        if (suceso.getSuceso().equals("1")) {
-                            tipo = respuestaJSON.getString("tipo");
-                            devuelve = "1";
-                        } else {
-                            devuelve = "2";
-                        }
-
+                    } catch (MalformedURLException e) {
+                        e.printStackTrace();
+                    } catch (IOException e) {
+                        e.printStackTrace();
+                    } catch (JSONException e) {
+                        e.printStackTrace();
                     }
-
-                } catch (MalformedURLException e) {
-                    e.printStackTrace();
-                } catch (IOException e) {
-                    e.printStackTrace();
-                } catch (JSONException e) {
-                    e.printStackTrace();
                 }
             }
-        }
             return devuelve;
         }
 
@@ -243,11 +243,11 @@ ImageButton entrar;
             Log.e("onPostExcute=", "" + s);
 
             if (s.equals("1")) {
-            Intent confirmar=new Intent(getApplicationContext(),Confirmar_sms.class);
-            confirmar.putExtra("tipo",tipo);
-            confirmar.putExtra("celular",celular.getText().toString());
-            startActivity(confirmar);
-            overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
+                Intent confirmar=new Intent(getApplicationContext(),Confirmar_sms.class);
+                confirmar.putExtra("tipo",tipo);
+                confirmar.putExtra("celular",celular.getText().toString());
+                startActivity(confirmar);
+                overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
 
             }
             else if(s.equals("2"))
