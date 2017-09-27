@@ -174,7 +174,7 @@ Button codeInputButton;
 
         }catch (Exception e)
         {
-            finish();
+            //finish();
         }
 
 
@@ -202,7 +202,7 @@ enviar_mensaje.setOnClickListener(this);
                     if (token != null && token != "") {
 
                         Servicio_cargar_datos hilo_cargar = new Servicio_cargar_datos();
-                        hilo_cargar.execute(getString(R.string.servidor) + "frmUsuario.php?opcion=get_perfil", "1", celular, token);// parametro que recibe el doinbackground
+                        hilo_cargar.execute(getString(R.string.servidor) + "frmUsuario.php?opcion=get_perfil", "1", celular, token,inputCode.getText().toString());// parametro que recibe el doinbackground
                     }
                     else
                     {
@@ -428,7 +428,7 @@ enviar_mensaje.setOnClickListener(this);
         boolean sw=false;
         try{
             int numero=Integer.parseInt(s.toString());
-            if(numero>=1000 && numero<=9999)
+            if(numero>=0000 && numero<=9999)
             {
                 sw=true;
             }
@@ -814,6 +814,7 @@ enviar_mensaje.setOnClickListener(this);
                     JSONObject jsonParam = new JSONObject();
                     jsonParam.put("telefono", params[2]);
                     jsonParam.put("token", params[3]);
+                    jsonParam.put("codigo", params[4]);
 
                     //Envio los prametro por metodo post
                     OutputStream os = urlConn.getOutputStream();
@@ -926,7 +927,7 @@ enviar_mensaje.setOnClickListener(this);
             }
             else if(s.equals("2"))
             {
-                //Toast.makeText(getApplicationContext(),suceso.getMensaje(),Toast.LENGTH_SHORT).show();
+                Toast.makeText(getApplicationContext(),suceso.getMensaje(),Toast.LENGTH_SHORT).show();
             }
             else
             {

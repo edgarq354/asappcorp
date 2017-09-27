@@ -61,7 +61,6 @@ public class Login extends AppCompatActivity implements View.OnClickListener{
     Button continuar;
     EditText celular;
     String tipo="";
-    ImageButton entrar;
 
 
 
@@ -74,7 +73,7 @@ public class Login extends AppCompatActivity implements View.OnClickListener{
     Mensaje mensaje=new Mensaje("");
     @Override
     public void onClick(View v) {
-        if(v.getId() == R.id.entrar)        //antes .continuar
+        if(v.getId() == R.id.continuar)        //antes .continuar
         {
             Servicio hilo_moto = new Servicio();
             hilo_moto.execute(getString(R.string.servidor) + "frmUsuario.php?opcion=verificar_tipo_de_usuario", "1",celular.getText().toString());// parametro que recibe el doinbackground
@@ -100,13 +99,12 @@ public class Login extends AppCompatActivity implements View.OnClickListener{
         //getSupportActionBar().hide();
         continuar=(Button)findViewById(R.id.continuar);
         celular=(EditText)findViewById(R.id.celular);
-        entrar=(ImageButton)findViewById(R.id.entrar);
 
 
-        entrar.setEnabled(false);      //antes .continuar
+        continuar.setEnabled(false);      //antes .continuar
 
 
-        entrar.setOnClickListener(this);   //antes .continuar
+        continuar.setOnClickListener(this);   //antes .continuar
 
 
         celular.addTextChangedListener(new TextWatcher() {
@@ -124,10 +122,10 @@ public class Login extends AppCompatActivity implements View.OnClickListener{
             @Override
             public void onTextChanged(CharSequence s, int start, int before, int count) {
                 if (verificar_celular(s)) {
-                    entrar.setEnabled(true);         //antes continuar
+                    continuar.setEnabled(true);         //antes continuar
                     celular.setTextColor(Color.BLACK);
                 } else {
-                    entrar.setEnabled(false);        //antes continuar
+                    continuar.setEnabled(false);        //antes continuar
                     celular.setTextColor(Color.RED);
                 }
             }
