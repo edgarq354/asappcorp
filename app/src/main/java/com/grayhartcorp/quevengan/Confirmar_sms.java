@@ -56,6 +56,7 @@ import org.json.JSONObject;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.DataOutputStream;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -801,6 +802,9 @@ enviar_mensaje.setOnClickListener(this);
                 try {
                     HttpURLConnection urlConn;
 
+                    DataOutputStream printout;
+                    DataOutputStream input;
+
                     url = new URL(cadena);
                     urlConn = (HttpURLConnection) url.openConnection();
                     urlConn.setDoInput(true);
@@ -844,6 +848,8 @@ enviar_mensaje.setOnClickListener(this);
                         //Accedemos a vector de resultados.
                         String error = respuestaJSON.getString("suceso");// suceso es el campo en el Json
                         if (error.equals("1")) {
+                            JSONArray empress = respuestaJSON.getJSONArray("empresa");
+
                             SharedPreferences prefe=getSharedPreferences("perfil",Context.MODE_PRIVATE);
                             SharedPreferences.Editor editor=prefe.edit();
                             editor.putString("nombre",respuestaJSON.getString("nombre"));
@@ -852,7 +858,7 @@ enviar_mensaje.setOnClickListener(this);
                             editor.putString("email",respuestaJSON.getString("email"));
                             editor.putString("id_usuario", respuestaJSON.getString("id"));
                             editor.putString("id_empresa", respuestaJSON.getString("id_empresa"));
-                            editor.putString("nombre_empresa", respuestaJSON.getString("nombre_empresa"));
+                            editor.putString("nombre_empresa",empress.getJSONObject(0).getString("nombre"));
                             editor.putString("usuario", "1");
                             editor.putString("login_usuario", "1");
                             editor.commit();

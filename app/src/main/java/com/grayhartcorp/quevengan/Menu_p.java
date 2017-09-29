@@ -1750,7 +1750,7 @@ if(isCancelled()==false && alertDialog.isShowing() ==true) {
                             JSONObject respuestaJSON = new JSONObject(result.toString());//Creo un JSONObject a partir del
                             suceso = new Suceso(respuestaJSON.getString("suceso"), respuestaJSON.getString("mensaje"));
                             if (suceso.getSuceso().equals("1")) {
-                                id_pedido=respuestaJSON.getString("id_pedido");
+                                //id_pedido=respuestaJSON.getString("id_pedido"); modifico willy esta linea
                                 devuelve = "3";
                             } else if (suceso.getSuceso().equals("3")) {
 
