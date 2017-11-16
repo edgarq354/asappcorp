@@ -23,1039 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f44f882-f9e2-4d15-a1bb-2c14fd369af8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/animated_vector_drawable_24_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_24_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/cardview_v7_24_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/design_24_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_core_2_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/espresso_idling_resource_2_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/exposed_instrumentation_api_publish_0_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/firebase_analytics_11_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/firebase_analytics_impl_11_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/firebase_auth_11_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/firebase_common_11_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/firebase_core_11_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/firebase_iid_11_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/firebase_messaging_11_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_core_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_integration_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/hamcrest_library_1_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/javawriter_2_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/javax_annotation_api_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/javax_inject_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/jsr305_2_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/junit_4_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/org_jbundle_util_osgi_wrapped_org_apache_http_client_4_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_analytics_11_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_analytics_impl_11_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_base_11_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_basement_11_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_gcm_11_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_iid_11_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_location_11_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_maps_11_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_tagmanager_v4_impl_11_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_tasks_11_0_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/recyclerview_v7_24_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/rules_0_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/runner_0_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/sinch_android_verification_1_4_0_.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_25_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_compat_25_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_ui_25_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_core_utils_25_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_fragment_25_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_media_compat_25_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_25_2_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_vector_drawable_24_2_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/systembartint_1_0_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/volley.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-29-14-26-33-125.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-29-16-00-02-360.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-06-29-16-00-07-257.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-10-23-12-02-086.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-10-23-24-36-470.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-11-15-12-56-944.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-11-15-19-49-960.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-11-15-21-05-358.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-11-16-07-53-946.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-11-16-09-55-323.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-11-16-10-44-545.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-11-16-12-40-623.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-11-16-13-17-778.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-11-16-18-26-036.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-11-16-19-10-609.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-11-16-19-36-248.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-11-16-21-26-899.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-11-16-41-48-171.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-14-28-13-983.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-14-29-39-684.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-14-30-08-856.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-14-30-24-939.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-14-40-57-904.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-14-46-43-052.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-14-47-19-967.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-14-48-11-105.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-14-54-30-762.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-14-55-35-863.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-15-07-25-659.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-15-08-06-192.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-15-08-28-717.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-15-13-19-815.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-15-28-55-574.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-15-29-55-333.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-15-32-06-022.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-02-52-354.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-07-12-220.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-08-31-687.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-11-39-098.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-12-46-038.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-13-50-498.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-16-08-279.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-17-12-091.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-22-13-967.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-28-29-702.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-29-39-916.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-30-26-654.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-31-18-540.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-32-42-563.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-36-11-866.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-36-54-912.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-37-52-246.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-38-38-320.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-16-42-49-388.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-17-02-26-570.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-17-03-37-767.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-17-04-53-102.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-17-05-51-837.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-17-06-51-758.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-17-08-14-247.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-17-08-58-967.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-17-15-31-282.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-17-22-31-429.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-17-23-16-823.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-17-24-25-836.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-17-25-22-752.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-18-25-31-403.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-18-26-09-245.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-18-27-00-449.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-18-27-49-804.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-18-28-14-370.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-18-29-03-950.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-18-31-42-247.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-21-35-02-265.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-21-37-41-427.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-21-43-59-045.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-21-45-54-071.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-21-46-39-711.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-21-48-36-974.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-21-49-14-555.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-21-50-22-416.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-21-51-12-507.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-22-19-39-626.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-22-20-03-998.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-22-26-22-087.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-22-27-03-284.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-12-22-29-51-966.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-13-17-08-03-450.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-13-17-08-10-450.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-14-11-03-59-941.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-14-11-05-38-927.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-14-11-05-59-344.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-14-11-07-07-781.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-14-11-07-29-479.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-14-11-42-05-978.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-14-11-43-25-553.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-14-11-44-18-782.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-14-12-07-15-686.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-14-12-07-58-594.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-14-12-08-34-871.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-14-12-08-55-969.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-14-12-11-46-851.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-14-12-12-48-661.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-14-16-08-01-041.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-14-16-08-46-494.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-14-16-10-01-553.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-15-00-20-51-053.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-15-00-24-06-728.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-15-00-24-16-580.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-15-00-24-20-522.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-15-00-24-26-781.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-15-00-25-50-587.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-15-00-27-35-093.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-17-21-12-30-463.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-17-21-13-57-150.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-17-21-16-58-646.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-17-21-17-23-759.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-17-21-22-03-273.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-17-21-24-52-515.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-17-21-33-21-705.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-17-21-38-55-404.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-17-21-38-58-563.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-17-21-39-02-342.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-17-21-39-45-397.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-17-21-40-04-256.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-17-22-09-18-716.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-17-22-10-32-042.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-20-12-22-20-003.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-20-12-24-05-725.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-21-16-04-41-940.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-21-16-05-19-854.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-21-16-05-44-964.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-21-16-06-13-036.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-21-16-13-56-320.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-11-34-34-710.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-11-38-42-136.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-11-42-48-003.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-11-57-00-984.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-11-57-18-399.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-11-58-18-366.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-12-01-18-549.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-12-01-58-365.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-12-02-01-047.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-12-03-22-185.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-12-03-56-615.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-12-05-35-542.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-12-08-42-368.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-12-14-51-334.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-14-08-29-426.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-14-09-46-052.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-14-10-08-304.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-14-26-43-379.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-14-32-02-268.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-14-33-58-681.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-14-42-09-422.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-14-42-49-664.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-14-54-29-164.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-14-54-53-681.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-15-03-08-057.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-15-05-28-164.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-15-17-57-006.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-15-51-21-002.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-16-19-17-505.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-16-21-48-046.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-17-02-53-963.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-17-04-25-219.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-17-04-53-982.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-17-06-00-927.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-17-10-14-931.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-17-10-46-043.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-18-30-18-308.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-18-31-10-931.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-18-31-26-182.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-18-45-25-399.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-19-14-24-027.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-19-15-32-406.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-19-18-05-878.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-19-20-04-641.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-19-22-15-818.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-19-22-21-765.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-19-22-31-010.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-19-24-42-972.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-19-27-29-883.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-19-28-40-011.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-19-33-42-331.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-19-40-47-770.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-19-45-43-314.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-19-55-11-739.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-20-01-02-788.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-20-13-18-383.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-20-13-19-443.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-20-16-27-576.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-20-16-28-096.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-20-25-53-464.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-20-33-35-809.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-20-35-57-820.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-20-38-00-844.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-20-43-21-478.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-20-44-47-294.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-20-46-32-925.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-20-47-36-362.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-24-20-49-11-260.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-10-49-23-188.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-10-50-20-982.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-10-50-56-812.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-10-54-42-003.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-10-55-35-234.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-10-56-08-968.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-11-11-03-008.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-11-15-32-678.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-11-21-16-943.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-11-24-05-104.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-15-08-10-415.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-15-15-44-002.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-15-18-33-084.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-15-20-13-079.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-15-20-56-327.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-15-22-46-214.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-15-23-52-714.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-15-25-51-919.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-15-26-56-691.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-15-29-01-551.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-15-29-49-337.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-15-30-25-841.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-15-31-10-690.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-15-31-49-201.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-15-32-57-693.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-16-39-34-501.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-16-41-22-951.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-23-06-37-368.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-23-08-22-862.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-23-18-25-526.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-23-19-31-045.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-23-21-19-349.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-23-23-08-256.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-23-24-06-283.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-23-24-45-824.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-25-23-26-11-616.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-26-12-13-53-438.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-26-12-16-15-755.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-26-16-51-29-697.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-26-16-55-34-108.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-26-16-58-24-816.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-26-16-59-00-873.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-26-17-01-28-847.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-26-17-06-44-720.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-26-17-08-48-547.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-26-17-11-12-691.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-26-17-13-07-314.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-26-17-17-20-222.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-26-22-27-14-487.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-26-22-30-11-817.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-26-22-31-02-382.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-26-22-31-24-215.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-26-22-32-32-439.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-26-22-38-03-824.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-27-00-04-26-914.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-27-16-46-19-948.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-17-57-45-045.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-18-19-15-102.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-18-20-35-435.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-18-22-24-832.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-18-40-23-375.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-18-41-29-806.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-18-48-51-072.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-18-50-29-809.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-18-51-00-010.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-18-51-45-480.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-18-52-23-617.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-18-53-30-950.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-18-54-49-901.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-18-56-01-241.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-18-56-30-948.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-18-57-07-117.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-18-57-36-680.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-18-58-11-909.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-00-57-998.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-02-55-357.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-03-58-614.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-06-28-625.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-07-19-291.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-07-46-293.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-08-40-934.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-09-44-846.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-10-15-233.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-10-56-069.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-14-14-844.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-18-13-566.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-19-49-188.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-20-20-613.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-21-25-257.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-22-11-135.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-23-19-176.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-23-51-482.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-24-58-130.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-26-08-777.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-27-34-468.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-31-06-557.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-31-42-465.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-32-39-535.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-32-49-199.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-35-44-115.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-37-45-052.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-38-24-990.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-39-18-966.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-40-30-732.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-46-13-693.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-49-24-741.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-50-31-397.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-51-04-338.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-51-19-993.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-54-22-544.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-55-05-748.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-21-56-24-194.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-22-15-35-706.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-22-19-28-519.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-22-20-37-507.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-22-21-53-377.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-22-23-08-249.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-22-27-47-734.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-22-28-11-297.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-22-30-30-172.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-22-31-10-592.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-07-31-23-59-10-479.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-01-00-00-27-827.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-01-00-01-13-929.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-01-00-02-25-021.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-01-00-02-55-448.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-01-00-03-23-724.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-01-00-04-40-828.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-01-00-06-18-756.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-01-00-07-00-995.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-01-00-08-10-020.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-01-00-08-51-180.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-01-00-10-52-278.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-01-00-11-43-678.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-01-00-12-43-030.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-01-00-14-10-603.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-01-00-14-47-434.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-01-00-15-39-373.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-01-16-20-32-860.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-01-16-21-50-359.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-02-00-27-43-908.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-02-00-31-43-329.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-02-00-38-24-943.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-02-15-09-20-406.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-02-15-11-23-430.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-02-15-17-10-955.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-02-15-21-31-942.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-02-15-30-30-432.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-02-15-42-40-954.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-02-16-07-45-611.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-02-16-08-45-303.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-02-16-10-26-721.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-02-16-11-43-086.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-02-16-17-18-218.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-02-16-24-57-996.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-02-23-23-26-282.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-02-23-24-34-806.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-02-23-34-22-825.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-15-11-45-107.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-15-42-13-836.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-15-46-32-644.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-15-56-06-225.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-16-03-55-862.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-16-05-02-990.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-16-05-53-530.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-16-06-16-864.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-16-08-02-237.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-16-08-28-030.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-16-12-16-927.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-16-14-54-482.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-16-17-15-463.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-16-17-54-724.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-16-19-23-441.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-16-39-48-058.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-16-48-45-069.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-16-54-07-785.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-04-17-03-26-103.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-07-00-02-10-514.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-07-00-14-21-258.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-08-15-30-47-060.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-08-16-59-36-294.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-08-17-02-29-378.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-08-17-28-06-214.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-08-17-29-13-276.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-08-17-31-50-040.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-08-17-35-09-151.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-08-17-37-11-854.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-22-11-22-907.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-22-43-07-036.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-22-43-16-996.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-22-44-50-545.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-22-49-10-569.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-22-49-12-137.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-22-49-29-321.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-22-51-55-915.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-22-52-46-612.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-12-10-550.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-12-57-357.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-15-58-435.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-20-07-941.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-20-09-530.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-20-32-430.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-20-33-389.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-34-37-172.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-34-38-516.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-36-27-153.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-37-32-532.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-39-15-948.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-40-34-365.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-41-48-051.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-46-26-577.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-51-13-483.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-54-15-890.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-54-50-256.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-56-48-610.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-57-30-329.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-58-02-420.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-58-40-081.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-59-14-191.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-09-23-59-59-590.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-10-00-01-22-460.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-10-00-04-49-630.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-10-00-06-25-613.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-10-00-07-21-848.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-10-14-31-33-576.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-10-14-48-04-486.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-10-14-53-12-713.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-10-15-00-13-291.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-10-15-10-45-945.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-10-15-12-50-641.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-10-15-13-34-255.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-17-13-31-785.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-17-13-43-387.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-17-17-32-108.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-17-17-33-513.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-17-26-49-240.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-17-26-50-428.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-17-45-09-032.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-17-51-29-335.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-17-51-47-369.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-17-52-49-517.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-17-52-59-310.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-17-54-53-921.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-17-55-05-253.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-17-55-06-413.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-17-55-28-050.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-18-14-28-382.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-18-14-29-260.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-18-19-58-206.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-18-19-59-039.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-18-22-13-264.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-18-22-14-000.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-18-22-35-903.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-18-22-36-716.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-18-38-08-673.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-18-38-09-652.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-18-39-12-634.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-18-39-13-474.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-18-42-23-208.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-16-21-38-39-402.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-18-16-39-24-896.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-18-16-41-08-899.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-18-16-44-49-452.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-18-16-48-39-301.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-18-16-53-04-533.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-18-16-56-51-684.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-18-17-02-34-691.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-18-17-05-56-008.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-20-00-15-43-610.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/android-profile/profile-2017-08-20-00-50-12-671.rawproto" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/generated/mockable-android-25.jar" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugAndroidTestJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugAndroidTestJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugAndroidTestJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugAndroidTestJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugAndroidTestJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugAndroidTestJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugAndroidTestJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugAndroidTestJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugUnitTestJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugUnitTestJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugUnitTestJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugUnitTestJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugUnitTestJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugUnitTestJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugUnitTestJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_app_compileDebugUnitTestJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Motos1.pdf" afterPath="$PROJECT_DIR$/Motos1.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Motos2.pdf" afterPath="$PROJECT_DIR$/Motos2.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Motos3.pdf" afterPath="$PROJECT_DIR$/Motos3.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Scan.pdf" afterPath="$PROJECT_DIR$/Scan.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Usuario1.pdf" afterPath="$PROJECT_DIR$/Usuario1.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Usuario2.pdf" afterPath="$PROJECT_DIR$/Usuario2.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app-release.apk" afterPath="$PROJECT_DIR$/app/app-release.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/sinch-android-verification-1.4.0.aar" afterPath="$PROJECT_DIR$/app/libs/sinch-android-verification-1.4.0.aar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/libs/volley.jar" afterPath="$PROJECT_DIR$/app/libs/volley.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/fonts/Aku-Kamu.ttf" afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/Aku-Kamu.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/assets/fonts/roboto2.ttf" afterPath="$PROJECT_DIR$/app/src/main/assets/fonts/roboto2.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_actualizar-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_actualizar-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_agregar_contacto-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_agregar_contacto-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_agregar_direccion-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_agregar_direccion-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_back_press-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_back_press-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_bien-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_bien-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_bolivia-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_bolivia-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_buscar-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_buscar-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_check-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_check-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_contactos-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_contactos-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_direccion-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_direccion-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_direccion_detalle-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_direccion_detalle-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_empresa-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_empresa-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_fin-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_fin-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_imagen_moto-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_imagen_moto-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_inactivo-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_inactivo-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_inicio-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_inicio-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_lapiz_editar-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_lapiz_editar-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_launcher-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_launcher-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_manito_neutro-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_manito_neutro-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_me_gusta-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_me_gusta-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_moto-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_moto-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_no_me_gusta-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_no_me_gusta-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_nombre_direccion-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_nombre_direccion-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_opcion-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_opcion-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_palomita-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_palomita-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_point-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_point-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_point_empresa-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_point_empresa-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_punto-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_punto-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_rueda_moto-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_rueda_moto-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_ruta-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_ruta-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/ic_telefono-web.png" afterPath="$PROJECT_DIR$/app/src/main/ic_telefono-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/radio1-web.png" afterPath="$PROJECT_DIR$/app/src/main/radio1-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/radio2-web.png" afterPath="$PROJECT_DIR$/app/src/main/radio2-web.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/Thumbs.db" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/Thumbs.db" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_tab_contacts.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_tab_contacts.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_tab_favourite.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_tab_favourite.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_tab_contacts.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_tab_contacts.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_tab_favourite.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_tab_favourite.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta0.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta0.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta1.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta1.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta10.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta10.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta11.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta11.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta3.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta3.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta4.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta4.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta5.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta5.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta6.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta6.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta7.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta7.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta8.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta8.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta9.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/llanta9.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/radar_2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/radar_2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_tab_contacts.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_tab_contacts.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_tab_favourite.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_tab_favourite.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_tab_contacts.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_tab_contacts.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_tab_favourite.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_tab_favourite.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bandesap.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bandesap.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/botonentrar.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/botonentrar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/botonsap.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/botonsap.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/editsap.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/editsap.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/fondosap.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fondosap.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/iconsap.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/iconsap.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/intro2.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/intro2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/logo.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/logo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/perfil.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/perfil.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_actualizar.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_actualizar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_agregar_contacto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_agregar_contacto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_agregar_direccion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_agregar_direccion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_back_press.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_back_press.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_bien.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_bien.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_bolivia.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_bolivia.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_buscar.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_buscar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_check.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_check.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_contactos.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_contactos.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_direccion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_direccion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_direccion_detalle.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_direccion_detalle.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_empresa.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_empresa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_fin.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_fin.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_imagen_moto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_imagen_moto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_inactivo.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_inactivo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_inicio.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_inicio.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_lapiz_editar.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_lapiz_editar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_manito_neutro.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_manito_neutro.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_me_gusta.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_me_gusta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_no_me_gusta.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_no_me_gusta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_nombre_direccion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_nombre_direccion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_opcion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_opcion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_point.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_point.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_point_empresa.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_point_empresa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_punto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_punto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_rueda_moto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_rueda_moto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_ruta.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_ruta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_telefono.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_telefono.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/perfil.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/perfil.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/perfil2.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/perfil2.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_actualizar.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_actualizar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_agregar_contacto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_agregar_contacto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_agregar_direccion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_agregar_direccion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_back_press.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_back_press.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_bien.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_bien.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_bolivia.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_bolivia.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_buscar.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_buscar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_check.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_check.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_contactos.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_contactos.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_direccion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_direccion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_direccion_detalle.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_direccion_detalle.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_empresa.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_empresa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_fin.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_fin.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_imagen_moto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_imagen_moto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_inactivo.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_inactivo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_inicio.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_inicio.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_lapiz_editar.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_lapiz_editar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_manito_neutro.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_manito_neutro.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_me_gusta.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_me_gusta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_no_me_gusta.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_no_me_gusta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_nombre_direccion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_nombre_direccion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_opcion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_opcion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_point.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_point.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_point_empresa.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_point_empresa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_punto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_punto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_rueda_moto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_rueda_moto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_ruta.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_ruta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_telefono.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_telefono.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_actualizar.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_actualizar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_agregar_contacto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_agregar_contacto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_agregar_direccion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_agregar_direccion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_back_press.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_back_press.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_bien.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_bien.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_bolivia.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_bolivia.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_buscar.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_buscar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_check.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_check.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_contactos.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_contactos.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_direccion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_direccion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_direccion_detalle.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_direccion_detalle.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_empresa.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_empresa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_fin.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_fin.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_imagen_moto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_imagen_moto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_inactivo.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_inactivo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_inicio.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_inicio.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_lapiz_editar.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_lapiz_editar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_manito_neutro.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_manito_neutro.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_me_gusta.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_me_gusta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_no_me_gusta.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_no_me_gusta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_nombre_direccion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_nombre_direccion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_opcion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_opcion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_point.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_point.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_point_empresa.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_point_empresa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_punto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_punto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_rueda_moto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_rueda_moto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_ruta.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_ruta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_telefono.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_telefono.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/intro.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/intro.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_actualizar.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_actualizar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_agregar_contacto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_agregar_contacto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_agregar_direccion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_agregar_direccion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_back_press.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_back_press.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_bien.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_bien.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_bolivia.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_bolivia.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_buscar.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_buscar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_check.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_check.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_contactos.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_contactos.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_direccion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_direccion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_direccion_detalle.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_direccion_detalle.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_empresa.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_empresa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_fin.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_fin.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_imagen_moto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_imagen_moto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_inactivo.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_inactivo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_inicio.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_inicio.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_lapiz_editar.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_lapiz_editar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_manito_neutro.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_manito_neutro.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_me_gusta.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_me_gusta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_no_me_gusta.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_no_me_gusta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_nombre_direccion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_nombre_direccion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_opcion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_opcion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_perfil.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_perfil.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_point.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_point.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_point_empresa.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_point_empresa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_punto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_punto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_rueda_moto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_rueda_moto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_ruta.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_ruta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_telefono.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_telefono.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_actualizar.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_actualizar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_agregar_contacto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_agregar_contacto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_agregar_direccion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_agregar_direccion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_back_press.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_back_press.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_bien.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_bien.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_bolivia.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_bolivia.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_buscar.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_buscar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_check.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_check.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_contactos.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_contactos.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_direccion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_direccion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_direccion_detalle.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_direccion_detalle.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_empresa.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_empresa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_fin.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_fin.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_imagen_moto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_imagen_moto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_inactivo.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_inactivo.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_inicio.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_inicio.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_lapiz_editar.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_lapiz_editar.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_manito_neutro.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_manito_neutro.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_me_gusta.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_me_gusta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_no_me_gusta.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_no_me_gusta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_nombre_direccion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_nombre_direccion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_opcion.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_opcion.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_point.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_point.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_point_empresa.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_point_empresa.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_punto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_punto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_rueda_moto.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_rueda_moto.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_ruta.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_ruta.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_telefono.png" afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_telefono.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/raw/arranque.mp3" afterPath="$PROJECT_DIR$/app/src/main/res/raw/arranque.mp3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/raw/pasapp.mp4" afterPath="$PROJECT_DIR$/app/src/main/res/raw/pasapp.mp4" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/raw/racetemplate.mp4" afterPath="$PROJECT_DIR$/app/src/main/res/raw/racetemplate.mp4" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/raw/ringtone_error.mp3" afterPath="$PROJECT_DIR$/app/src/main/res/raw/ringtone_error.mp3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/raw/vocina.mp3" afterPath="$PROJECT_DIR$/app/src/main/res/raw/vocina.mp3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/captures/com.grayhartcorp.quevengan_2016.10.26_17.45.li" afterPath="$PROJECT_DIR$/captures/com.grayhartcorp.quevengan_2016.10.26_17.45.li" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/captures/com.grayhartcorp.quevengan_2017.01.10_08.01.li" afterPath="$PROJECT_DIR$/captures/com.grayhartcorp.quevengan_2017.01.10_08.01.li" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/report_013428008675629.pdf" afterPath="$PROJECT_DIR$/report_013428008675629.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/.gitignore" afterPath="$PROJECT_DIR$/app/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/hs_err_pid10356.log" afterPath="$PROJECT_DIR$/app/hs_err_pid10356.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/hs_err_pid4810.log" afterPath="$PROJECT_DIR$/app/hs_err_pid4810.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/proguard-rules.pro" afterPath="$PROJECT_DIR$/app/proguard-rules.pro" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/grayhartcorp/quevengan/ApplicationTest.java" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/grayhartcorp/quevengan/ApplicationTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/debug/java/com/grayhartcorp/quevengan/Configuracion.java" afterPath="$PROJECT_DIR$/app/src/debug/java/com/grayhartcorp/quevengan/Configuracion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/debug/res/menu/menu_scrolling.xml" afterPath="$PROJECT_DIR$/app/src/debug/res/menu/menu_scrolling.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/debug/res/values-v21/styles.xml" afterPath="$PROJECT_DIR$/app/src/debug/res/values-v21/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/debug/res/values-w820dp/dimens.xml" afterPath="$PROJECT_DIR$/app/src/debug/res/values-w820dp/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/debug/res/values/dimens.xml" afterPath="$PROJECT_DIR$/app/src/debug/res/values/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml" afterPath="$PROJECT_DIR$/app/src/debug/res/values/google_maps_api.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/debug/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/debug/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/debug/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/debug/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Actualizar_aplicacion.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Actualizar_aplicacion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/AndroidLocationService.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/AndroidLocationService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/AndroidPermissions.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/AndroidPermissions.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Bienvenido.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Bienvenido.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Carrera_us.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Carrera_us.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Confirmar_sms.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Confirmar_sms.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Constants.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Constants.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Facilitar_permiso.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Facilitar_permiso.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/GeocodeAddressIntentService.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/GeocodeAddressIntentService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Inicio.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Inicio.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Integrantes_empresa.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Integrantes_empresa.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Lista_contactos_grupo.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Lista_contactos_grupo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Login.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Login.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Login_usuario.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Login_usuario.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Mensaje.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Mensaje.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Menu_p.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Menu_p.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Mi_perfil.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Mi_perfil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/NewGPSTracker.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/NewGPSTracker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Pedido_us.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Pedido_us.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Pedir_moto.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Pedir_moto.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Popup.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Popup.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Punto.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Punto.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Registrar_email.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Registrar_email.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Registrar_nombre.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Registrar_nombre.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Registrar_perfil.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Registrar_perfil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Servicio_pedido.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Servicio_pedido.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/SplashScreen.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/SplashScreen.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/SqLite/AdminSQLiteOpenHelper.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/SqLite/AdminSQLiteOpenHelper.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Suceso.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Suceso.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Validacion.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Validacion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Verificar_login_usuario.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Verificar_login_usuario.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/autentificacion/CountrySpinner.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/autentificacion/CountrySpinner.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/autentificacion/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/autentificacion/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/autentificacion/VerificationActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/autentificacion/VerificationActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/carreras/CCarrera.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/carreras/CCarrera.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/carreras/Carreras.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/carreras/Carreras.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/carreras/Detalle_carrera.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/carreras/Detalle_carrera.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/carreras/Items_carreras.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/carreras/Items_carreras.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/contactos/CContacto.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/contactos/CContacto.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/contactos/Constants.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/contactos/Constants.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/contactos/Contacto_em.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/contactos/Contacto_em.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/contactos/Contactos_local.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/contactos/Contactos_local.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/contactos/Lista_contactos.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/contactos/Lista_contactos.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/contactos/Registro_usuario.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/contactos/Registro_usuario.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/direccion/CDireccion.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/direccion/CDireccion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/direccion/Direccion_em.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/direccion/Direccion_em.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/direccion/Editar_direccion.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/direccion/Editar_direccion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/direccion/Items_mis_direcciones.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/direccion/Items_mis_direcciones.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/direccion/Mis_direcciones.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/direccion/Mis_direcciones.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/direccion/Registrar_direccion.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/direccion/Registrar_direccion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/direccion/lista_direccion_pedido/Direccion_item.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/direccion/lista_direccion_pedido/Direccion_item.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/empresa/CEmpresa.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/empresa/CEmpresa.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/empresa/Empresa.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/empresa/Empresa.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/historial/CHistorial.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/historial/CHistorial.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/historial/Items_historial.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/historial/Items_historial.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/historial/Menu_historial.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/historial/Menu_historial.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/historial_notificacion/CNotificacion.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/historial_notificacion/CNotificacion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/historial_notificacion/Items_notificacion.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/historial_notificacion/Items_notificacion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/historial_notificacion/Notificacion.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/historial_notificacion/Notificacion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/librari/SystemBarTintManager.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/librari/SystemBarTintManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/mapa/Buscador.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/mapa/Buscador.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/menu_motista/Carrera.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/menu_motista/Carrera.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/menu_motista/Menu_motista.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/menu_motista/Menu_motista.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/menu_motista/Mi_perfil_moto.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/menu_motista/Mi_perfil_moto.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/menu_motista/Notificacion_pedido_moto.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/menu_motista/Notificacion_pedido_moto.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/menu_motista/Servicio_cargar_punto.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/menu_motista/Servicio_cargar_punto.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/menu_motista/Servicio_eliminacion_notificacion.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/menu_motista/Servicio_eliminacion_notificacion.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/menu_motista/pedidos/CPedidos.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/menu_motista/pedidos/CPedidos.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/menu_motista/pedidos/Items_pedidos.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/menu_motista/pedidos/Items_pedidos.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/menu_motista/pedidos/Menu_historial_pedido.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/menu_motista/pedidos/Menu_historial_pedido.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/notificacion/ActivitySendPushNotification.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/notificacion/ActivitySendPushNotification.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/notificacion/EndPoints.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/notificacion/EndPoints.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/notificacion/MyFirebaseInstanceIdService.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/notificacion/MyFirebaseInstanceIdService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/notificacion/MyFirebaseMessagingService.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/notificacion/MyFirebaseMessagingService.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/notificacion/MyNotificationManager.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/notificacion/MyNotificationManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/notificacion/MyVolley.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/notificacion/MyVolley.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/notificacion/SharedPrefManager.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/notificacion/SharedPrefManager.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/tarifa/CTarifa.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/tarifa/CTarifa.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/tarifa/Items_tarifa.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/tarifa/Items_tarifa.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/tarifa/Tarifa.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/tarifa/Tarifa.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/anim/fade_in.xml" afterPath="$PROJECT_DIR$/app/src/main/res/anim/fade_in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/anim/fade_out.xml" afterPath="$PROJECT_DIR$/app/src/main/res/anim/fade_out.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/anim/fondo.xml" afterPath="$PROJECT_DIR$/app/src/main/res/anim/fondo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/anim/girar.xml" afterPath="$PROJECT_DIR$/app/src/main/res/anim/girar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/anim/rotar.xml" afterPath="$PROJECT_DIR$/app/src/main/res/anim/rotar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/anim/zoom_back_in.xml" afterPath="$PROJECT_DIR$/app/src/main/res/anim/zoom_back_in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/anim/zoom_back_out.xml" afterPath="$PROJECT_DIR$/app/src/main/res/anim/zoom_back_out.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/anim/zoom_forward_in.xml" afterPath="$PROJECT_DIR$/app/src/main/res/anim/zoom_forward_in.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/anim/zoom_forward_out.xml" afterPath="$PROJECT_DIR$/app/src/main/res/anim/zoom_forward_out.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/boton_circulo_normal.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/boton_circulo_normal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/boton_circulo_presionado.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/boton_circulo_presionado.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/bt_opcion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/bt_opcion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/animacion_icono.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/animacion_icono.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/backgrpound_selector.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/backgrpound_selector.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bk_boton_submit.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bk_boton_submit.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bk_cancelar.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bk_cancelar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bk_circulo.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bk_circulo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bk_correcto.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bk_correcto.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/bk_view.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/bk_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/boton1.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/boton1.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/boton_normal.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/boton_normal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/boton_normal_transparente.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/boton_normal_transparente.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/boton_presionado.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/boton_presionado.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/circulo.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/circulo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/fullscreen_toolbar_bg_gradient.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/fullscreen_toolbar_bg_gradient.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/side_nav_bar.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/side_nav_bar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable/texto.xml" afterPath="$PROJECT_DIR$/app/src/main/res/drawable/texto.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout-v14/item_pedidos.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout-v14/item_pedidos.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout-v21/activity_pedido_us.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout-v21/activity_pedido_us.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout-v21/content_menu_motista.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout-v21/content_menu_motista.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout-v21/content_menu_p.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout-v21/content_menu_p.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout-v21/version_21.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout-v21/version_21.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_actualizar_aplicacion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_actualizar_aplicacion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_agregar_contactos.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_agregar_contactos.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_bienvenido.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_bienvenido.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_carrera_listview.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_carrera_listview.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_carrera_mapa.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_carrera_mapa.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_carrera_us.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_carrera_us.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_confirmar_sms.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_confirmar_sms.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_contacto_em.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_contacto_em.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_detalle_carrera.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_detalle_carrera.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_direccion_em.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_direccion_em.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_editar_direccion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_editar_direccion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_empresa.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_empresa.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_facilitar_permiso.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_facilitar_permiso.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_inicio.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_inicio.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_integrantes_empresa.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_integrantes_empresa.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_lista_contactos.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_lista_contactos.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_lista_contactos_grupo.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_lista_contactos_grupo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_login_usuario.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login_usuario.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_maps.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_maps.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_historial.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_historial.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_historial_pedido.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_historial_pedido.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_motista.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_motista.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_p.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_menu_p.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_mis_direcciones.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_mis_direcciones.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_notificacion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_notificacion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_notificacion_pedido_moto.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_notificacion_pedido_moto.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_pedido_us.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pedido_us.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_pedidos.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pedidos.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_pedir_moto.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_pedir_moto.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_principal_contactos.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_principal_contactos.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_registrar_direccion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_registrar_direccion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_registrar_email.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_registrar_email.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_registrar_nombre.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_registrar_nombre.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_registrar_perfil.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_registrar_perfil.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_registro_usuario.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_registro_usuario.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_send_push_notification.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_send_push_notification.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash_screen.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_splash_screen.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_tarifa.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_tarifa.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_validacion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_validacion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_verificar_login_usuario.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_verificar_login_usuario.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_verification.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_verification.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/animacion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/animacion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/app_bar_menu_motista.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/app_bar_menu_motista.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/app_bar_menu_p.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/app_bar_menu_p.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/buscador.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/buscador.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_menu_historial.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_menu_historial.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_menu_historial_pedido.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_menu_historial_pedido.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_menu_motista.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_menu_motista.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/content_menu_p.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/content_menu_p.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/direccion_item.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/direccion_item.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_lista_direccion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_lista_direccion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/historial.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/historial.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_carreras.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_carreras.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_grupo.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_grupo.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_notificacion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_notificacion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_pedidos.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_pedidos.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/item_tarifa.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/item_tarifa.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/items_historial.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/items_historial.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/items_mis_direcciones.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/items_mis_direcciones.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/items_notificaciones.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/items_notificaciones.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/layout_popup_pedir_moto.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/layout_popup_pedir_moto.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/login_motista.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/login_motista.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/mi_perfil.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/mi_perfil.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/mi_perfil_moto.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/mi_perfil_moto.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/nav_header_menu_motista.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/nav_header_menu_motista.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/nav_header_menu_p.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/nav_header_menu_p.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/popup.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/popup.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/popup_dialogo_aceptar.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/popup_dialogo_aceptar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/popup_dialogo_aceptar_cancelar.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/popup_dialogo_aceptar_cancelar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/popup_progress_dialog.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/popup_progress_dialog.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/presentacion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/presentacion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/puntuacion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/puntuacion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/layout/texto_view.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/texto_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/activity_menu_motista_drawer.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/activity_menu_motista_drawer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/activity_menu_p_drawer.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/activity_menu_p_drawer.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/contactos.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/contactos.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/main_direccion.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/main_direccion.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_eliminar.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_eliminar.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_mi_perfil.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_mi_perfil.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_mis__contactos.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_mis__contactos.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_motista.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_motista.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_p.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_p.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_perfil.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_perfil.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_principal2.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_principal2.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/menu/menu_tarifa.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_tarifa.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values-v21/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-v21/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-v21/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values-w820dp/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values-w820dp/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/drawables.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/drawables.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/xml/searchable.xml" afterPath="$PROJECT_DIR$/app/src/main/res/xml/searchable.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/release/res/values/google_maps_api.xml" afterPath="$PROJECT_DIR$/app/src/release/res/values/google_maps_api.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/test/java/com/grayhartcorp/quevengan/ExampleUnitTest.java" afterPath="$PROJECT_DIR$/app/src/test/java/com/grayhartcorp/quevengan/ExampleUnitTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle.properties" afterPath="$PROJECT_DIR$/gradle.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew.bat" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/local.properties" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projectFilesBackup/.idea/workspace.xml" afterPath="$PROJECT_DIR$/projectFilesBackup/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projectFilesBackup1/.idea/workspace.xml" afterPath="$PROJECT_DIR$/projectFilesBackup1/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sinch-android-verification-1.4.0/sinch-android-verification-1.4.0.iml" afterPath="$PROJECT_DIR$/sinch-android-verification-1.4.0/sinch-android-verification-1.4.0.iml" />
     </list>
     <ignored path="Asapp.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1200,11 +172,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyFirebaseMessagingService.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MyFirebaseMessagingService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/notificacion/MyFirebaseMessagingService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="117" column="50" lean-forward="false" selection-start-line="117" selection-start-column="50" selection-end-line="117" selection-end-column="50" />
+            <state relative-caret-position="263">
+              <caret line="337" column="57" lean-forward="false" selection-start-line="337" selection-start-column="57" selection-end-line="337" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -1240,11 +212,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="strings.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="867">
-              <caret line="51" column="54" lean-forward="false" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
+            <state relative-caret-position="218">
+              <caret line="50" column="52" lean-forward="false" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -1279,6 +251,7 @@
       <find>llamar</find>
       <find>moto</find>
       <find>volumen</find>
+      <find>cance</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -3619,6 +2592,70 @@
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="asappcorp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="asappcorp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="asappcorp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="values" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResFolderTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="strings.xml" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidResGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="asappcorp" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.android.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -3628,7 +2665,7 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="android.sdk.path" value="$PROJECT_DIR$/../../../Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="device.picker.selection" value="42002ccdcad1245d" />
+    <property name="device.picker.selection" value="479008af6b429086" />
     <property name="UI_DESIGNER_EDITOR_MODE.NlPaletteManager-NlPreviewForm.SHOW" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-mdpi" />
     <property name="SearchEverywhereHistoryKey" value="onMessageReceived&#9;PSI&#9;JAVA://com.grayhartcorp.quevengan.notificacion.MyFirebaseMessagingService#onMessageReceived&#10;punto&#9;PSI&#9;JAVA://com.grayhartcorp.quevengan.Servicio_pedido.Servicio_punto&#10;ruta&#9;PSI&#9;JAVA://com.grayhartcorp.quevengan.carreras.Carreras#cargar_lista_en_ruta&#10;google&#9;FILE&#9;file:///Users/WILLY/AndroidStudioProjects/asappcorp/app/google-services.json" />
@@ -3762,7 +2799,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1510860593310" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1510861639528" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -3810,7 +2847,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1510860593310" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1510861639528" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -3984,7 +3021,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1510860593310" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1510861639530" />
       </method>
     </configuration>
     <list size="2">
@@ -4109,7 +3146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1506715755436</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Modificacion en el historial">
+      <created>1510860645126</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1510860645126</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TodoView" selected-index="3">
@@ -4126,7 +3170,7 @@
     <frame x="-8" y="-8" width="1604" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32729805" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3259053" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22595778" sideWeight="0.53637904" order="8" side_tool="true" content_ui="tabs" />
@@ -4711,14 +3755,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="54" lean-forward="false" selection-start-line="51" selection-start-column="54" selection-end-line="51" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/Menu_p.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30192">
@@ -4753,8 +3789,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/grayhartcorp/quevengan/notificacion/MyFirebaseMessagingService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="117" column="50" lean-forward="false" selection-start-line="117" selection-start-column="50" selection-end-line="117" selection-end-column="50" />
+        <state relative-caret-position="263">
+          <caret line="337" column="57" lean-forward="false" selection-start-line="337" selection-start-column="57" selection-end-line="337" selection-end-column="57" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="50" column="52" lean-forward="false" selection-start-line="50" selection-start-column="52" selection-end-line="50" selection-end-column="52" />
           <folding />
         </state>
       </provider>
