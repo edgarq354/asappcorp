@@ -25,6 +25,7 @@ import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.ColorDrawable;
 import android.graphics.drawable.Drawable;
 import android.location.LocationManager;
+import android.media.AudioManager;
 import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Build;
@@ -1081,7 +1082,11 @@ if(isCancelled()==false) {
              //   vista_button(false, true, false);
 
             } else if (s.equals("2")) {
-                mMap.clear();
+                try {
+                    mMap.clear();
+                }catch (Exception e){
+                    Log.e("error mapa","error en el mapa linea 1085");
+                }
                 vista_button(true, false, false);
                 cargar_pedido_en_curso("", "", "", "", "", "", "", 0, 0, "","","","",0);
             }
@@ -2727,5 +2732,21 @@ SharedPreferences pedido=getSharedPreferences("pedido_en_curso",MODE_PRIVATE);
         alertDialog=builder_dialogo.create();
     }
 
+
+    private void volumen() {
+
+        try {
+            AudioManager audioManager;
+            audioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
+            int vol_max_not=audioManager.getStreamMaxVolume(AudioManager.STREAM_NOTIFICATION);
+            int vol_max_ring=audioManager.getStreamMaxVolume(AudioManager.STREAM_RING);
+
+            audioManager.setStreamVolume(AudioManager.STREAM_NOTIFICATION, vol_max_not, 0);
+            audioManager.setStreamVolume(AudioManager.STREAM_RING, vol_max_ring, 0);
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
 
 }

@@ -6,6 +6,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.database.sqlite.SQLiteDatabase;
+import android.media.AudioManager;
 import android.media.Ringtone;
 import android.media.RingtoneManager;
 import android.net.Uri;
@@ -40,13 +41,14 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
     @Override
     public void onMessageReceived(RemoteMessage remoteMessage) {
+        Log.d(TAG, "From: " + remoteMessage.getFrom());
 
         if (remoteMessage.getData().size() > 0) {
 
             //envio de ultima ubicacion del motista
 
 
-            Log.e(TAG, "Data Payload: " + remoteMessage.getData().toString());
+            Log.e(TAG, "Message data payload: " + remoteMessage.getData().toString());
             try {
                 JSONObject json = new JSONObject(remoteMessage.getData().toString());
                 sendPushNotification(json);
@@ -59,6 +61,8 @@ public class MyFirebaseMessagingService extends FirebaseMessagingService {
 
     private void sendPushNotification(JSONObject json) {
         Log.e("Notificacion","Notificacion recibida");
+        volumen();
+
 
         SharedPreferences notificacion_pedido=getSharedPreferences("notificacion_pedido",MODE_PRIVATE);
         SharedPreferences.Editor editar_notificacion=notificacion_pedido.edit();
@@ -188,6 +192,9 @@ switch (tipo)
         moto.putExtra("longitud",longitud);
         moto.putExtra("nombre_direccion",nombre_direccion);
         moto.putExtra("detalle_direccion",detalle_direccion);
+
+
+
         try {
             SharedPreferences ped = getSharedPreferences("ultima_notificacion_pedido", MODE_PRIVATE);
             SharedPreferences.Editor editar = ped.edit();
@@ -213,8 +220,20 @@ switch (tipo)
 
         }
 
-            mNotificationManager.notificacion_con_activity(title, message, moto);
 
+
+            mNotificationManager.notificacion_con_activity(title, message, moto);
+        Intent moto2 = new Intent(getApplicationContext(),Notificacion_pedido_moto.class);
+        moto2.putExtra("id_pedido",id_pedido);
+        moto2.putExtra("nombre",nombre);
+        moto2.putExtra("empresa",nombre_empresa);
+        moto2.putExtra("direccion",direccion_empresa);
+        moto2.putExtra("latitud",latitud);
+        moto2.putExtra("longitud",longitud);
+        moto2.putExtra("nombre_direccion",nombre_direccion);
+        moto2.putExtra("detalle_direccion",detalle_direccion);
+        moto2.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
+        startActivity(moto2);
 
         break;
     case "3":
@@ -475,5 +494,24 @@ switch (tipo)
 
 
     }
+
+    private void volumen() {
+
+        try {
+            AudioManager audioManager;
+            audioManager = (AudioManager) getSystemService(Context.AUDIO_SERVICE);
+            int vol_max_not=audioManager.getStreamMaxVolume(AudioManager.STREAM_NOTIFICATION);
+            int vol_max_ring=audioManager.getStreamMaxVolume(AudioManager.STREAM_RING);
+
+            audioManager.setStreamVolume(AudioManager.STREAM_NOTIFICATION, vol_max_not, 0);
+            audioManager.setStreamVolume(AudioManager.STREAM_RING, vol_max_ring, 0);
+
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+    }
+
+
+
 
 }

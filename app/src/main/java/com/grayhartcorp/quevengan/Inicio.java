@@ -99,6 +99,22 @@ public class Inicio extends AppCompatActivity implements View.OnClickListener{
 
     @Override
     protected void onStart() {
+        dato_moto=getSharedPreferences("perfil", Context.MODE_PRIVATE);
+
+
+        if(dato_moto.getString("login_usuario","0").equals("1")) {
+            startActivity(new Intent(this, Menu_p.class));
+            finish();
+        }else if(dato_moto.getString("login_moto","0").equals("1"))
+        {
+            startActivity(new Intent(this, Menu_motista.class));
+            finish();
+        }
+        else if(dato_moto.getString("celular","")!="" &&dato_moto.getString("proceso","")=="1" &&  dato_moto.getString("login_usuario","0").equals("0"))
+        {
+            startActivity(new Intent(this,Registro_usuario.class));
+            finish();
+        }
         Log.e("Inicio","start");
         super.onStart();
 
@@ -124,22 +140,7 @@ public class Inicio extends AppCompatActivity implements View.OnClickListener{
         //  verificar_version();
 
         //si no tiene actualizaciones.. continua con el inicio.. normal...
-        dato_moto=getSharedPreferences("perfil", Context.MODE_PRIVATE);
 
-
-        if(dato_moto.getString("login_usuario","0").equals("1")) {
-            startActivity(new Intent(this, Menu_p.class));
-            finish();
-        }else if(dato_moto.getString("login_moto","0").equals("1"))
-        {
-            startActivity(new Intent(this, Menu_motista.class));
-            finish();
-        }
-        else if(dato_moto.getString("celular","")!="" &&dato_moto.getString("proceso","")=="1" &&  dato_moto.getString("login_usuario","0").equals("0"))
-        {
-            startActivity(new Intent(this,Registro_usuario.class));
-            finish();
-        }
 
 
 

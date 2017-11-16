@@ -12,6 +12,7 @@ import android.graphics.drawable.AnimationDrawable;
 import android.graphics.drawable.Drawable;
 import android.net.Uri;
 import android.os.AsyncTask;
+import android.os.Build;
 import android.os.SystemClock;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
@@ -88,7 +89,9 @@ public class Login extends AppCompatActivity implements View.OnClickListener{
         supportRequestWindowFeature(Window.FEATURE_NO_TITLE);
 
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS, WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
-        getWindow().setStatusBarColor(this.getResources().getColor(R.color.colorPrimary_back));
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            getWindow().setStatusBarColor(this.getResources().getColor(R.color.colorPrimary_back));
+        }
 
         /*Window window = this.getWindow();
         window.addFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS);
@@ -230,7 +233,7 @@ public class Login extends AppCompatActivity implements View.OnClickListener{
             //para el progres Dialog
 
             preparar_progres_dialogo("Asapp","Autenticando ...");
-            builder_dialogo.setCancelable(true);
+            builder_dialogo.setCancelable(false);
             alertDialog.show();
         }
 

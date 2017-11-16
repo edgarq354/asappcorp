@@ -49,7 +49,8 @@ El permiso de ubicación es necesario para mostrar su ubicación actual, ¿le gu
 
     <string name="servidor4">http://130.211.115.201:80/Asapp/</string>
     <string name="servidor3">http://10.0.128.2:80/Asapp/</string>
-    <string name="servidor">http://130.211.115.201/weservices/</string>
+    <!--<string name="servidor">http://130.211.115.201/weservices/</string>-->
+    <string name="servidor">http://192.168.0.103/Asapp-www/</string>
 
     <string name="mensajeria">e13658e4-58da-468f-8bf3-64ac58061af8</string>
     <string name="title_activity_carrera">Map</string>

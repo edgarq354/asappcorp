@@ -16,6 +16,7 @@ import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.net.Uri;
 import android.os.AsyncTask;
+import android.os.Build;
 import android.os.Environment;
 import android.os.Handler;
 import android.os.SystemClock;
@@ -114,7 +115,9 @@ Button codeInputButton;
         supportRequestWindowFeature(Window.FEATURE_NO_TITLE);
         //getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,WindowManager.LayoutParams.FLAG_FULLSCREEN);
         getWindow().setFlags(WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS, WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS);
-        getWindow().setStatusBarColor(this.getResources().getColor(R.color.colorPrimary_back));
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
+            getWindow().setStatusBarColor(this.getResources().getColor(R.color.colorPrimary_back));
+        }
 
         setContentView(R.layout.activity_confirmar_sms);
         mensaje=(TextView)findViewById(R.id.mensaje);
@@ -844,7 +847,7 @@ enviar_mensaje.setOnClickListener(this);
                         // StringBuilder pasando a cadena.                    }
 
                         SystemClock.sleep(950);
-
+                        suceso =new Suceso(respuestaJSON.getString("suceso"),respuestaJSON.getString("mensaje"));
                         //Accedemos a vector de resultados.
                         String error = respuestaJSON.getString("suceso");// suceso es el campo en el Json
                         if (error.equals("1")) {
@@ -933,7 +936,7 @@ enviar_mensaje.setOnClickListener(this);
             }
             else if(s.equals("2"))
             {
-                Toast.makeText(getApplicationContext(),suceso.getMensaje(),Toast.LENGTH_SHORT).show();
+                Toast.makeText(Confirmar_sms.this,suceso.getMensaje(),Toast.LENGTH_SHORT).show();
             }
             else
             {
@@ -983,6 +986,8 @@ enviar_mensaje.setOnClickListener(this);
             }
         });
     }
+
+
 
     public void preparar_progres_dialogo(String titulo,String mensaje)
     {
